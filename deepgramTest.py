@@ -3,7 +3,7 @@ import httpx
 import threading
 
 # The API key you created in step 1
-DEEPGRAM_API_KEY = '0b514705420699aa0c54642953aad205836192ba'
+DEEPGRAM_API_KEY = API_KEY
 
 # URL for the real-time streaming audio you would like to transcribe
 URL = 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service'
